@@ -1,0 +1,16 @@
+1 ogretim_uyesi Prof. Dr. Nevcihan DURU
+2 ogretim_uyesi Dr. Öğr. Üyesi Vildan YAZICI
+3 ogretim_uyesi Prof. Dr. Hüseyin Tarık DURU
+4 ogretim_uyesi Dr. Öğr. Üyesi Mehmet KARA
+5 ogretim_uyesi Dr. Öğr. Üyesi Ulaş VURAL
+6 ogretim_uyesi Dr. Öğr. Üyesi İsmet KARADUMAN
+7 ogretim_uyesi Dr. Öğr. Üyesi Ercan ÖLÇER
+8 ogretim_uyesi Dr. Öğr. Üyesi Elif Pınar HACIBEYOĞLU
+9 ogretim_uyesi Dr. Öğr. Üyesi Fulya AKDENİZ
+10 ogretim_uyesi Dr. Öğr. Üyesi Saliha ELMAS
+11 ogretim_uyesi Dr. Öğr. Üyesi Nurbanu ALBAYRAK
+12 ogretim_uyesi Dr. Öğr. Üyesi Ahmet ŞEN
+13 ogretim_uyesi Tüm MDBF Öğretim Üyeleri
+14 ogretim_uyesi ÖĞR.GÖR. DUYGU SUNMAZ ARSLAN
+15 arastırma_görevlisi Eray DURSUN
+16 arastırma_görevlisi Candide ÖZTÜRK
